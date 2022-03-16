@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AthLan21 - Atharva Langhe
 - 👀 I’m interested in Machine Learning, FullStack Web development, Blockchain development
 - 🌱 I’m currently learning AI, Blockchain, React.js, Image Processing and much more
-- 💞️ I’m looking to collaborate on GitHub - 
+- 💞️ I’m looking to collaborate on GitHub - https://github.com/AthLan21
 - 📫 How to reach me [alanghe21@gmail.com][www.linkedin.com/in/atharva-langhe]
 
 <!---
